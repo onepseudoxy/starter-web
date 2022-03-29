@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> ae7 <twitter>
+    ae7
+    codiaji@gmail.com
+    Full Stack dev
 
 # THANKS
 
