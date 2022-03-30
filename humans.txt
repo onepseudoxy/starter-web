@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
  ahlan, I'm modifying th file b4 rebase
+ Some locals changes for remote rebase purposes
 
 # TEAM
 
