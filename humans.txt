@@ -1,6 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
- ahlan, I'm modifying th file b4 rebase
+ahlan, I'm modifying th file b4 rebase
+
+
+    Hi
+    Conflicts Made
+    in myBranch branch
 
 # TEAM
 
