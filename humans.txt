@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    to ae7
 
 # TECHNOLOGY COLOPHON
 
