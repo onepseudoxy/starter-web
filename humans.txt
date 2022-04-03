@@ -26,3 +26,4 @@ New Note For stash
     HTML5, CSS3, Angular
     jQuery, Modernizr
     ML, AWS, GC
+    GIT

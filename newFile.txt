@@ -1,1 +1,2 @@
 A new file which is initial not tracked by git
+POC of stashing into branch
